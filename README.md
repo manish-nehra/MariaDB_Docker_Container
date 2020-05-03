@@ -1,5 +1,5 @@
 # MariaDB_Docker_Container
-This project is a demonstration of how docker works. It's actually composed of 3 sets of services:
+This project is a demonstration of how docker works.
 
  - MariaDB, Phpmyadmin, Adminer
 
