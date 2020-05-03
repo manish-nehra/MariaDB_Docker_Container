@@ -1,4 +1,6 @@
 # MariaDB_Docker_Container
+We have the MariaDB database in the center where almost all the other services will depend. Adminer and Phymyadmin are both database management tools that we can use to execute crud operations into the database.
+
 This project is a demonstration of how docker works.
 
  - MariaDB, Phpmyadmin, Adminer
